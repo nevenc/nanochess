@@ -4,6 +4,6 @@ Simple chess in Javascript.
 
 ```
 cf push
-cf push -n my-chess
+cf push --random-route
 ```
 
